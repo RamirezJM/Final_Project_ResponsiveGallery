@@ -22,7 +22,7 @@ h1 {
 .grid {
   display: grid;
   grid-template-columns: 1fr;
-  row-gap: 10px;
+  row-gap: 1em;
   justify-content: center;
 }
 
